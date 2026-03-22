@@ -1,5 +1,6 @@
 package guilherme.project.api;
 
+import guilherme.project.api.Model.User;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
@@ -10,4 +11,7 @@ public class ApiApplication {
 		SpringApplication.run(ApiApplication.class, args);
 	}
 
+
+
 }
+
